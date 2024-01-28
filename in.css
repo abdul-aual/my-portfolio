@@ -42,21 +42,29 @@ h1{
         height: 500px;
 
 }
+#div21,#div22
+{
+    width:40%;
+    margin-left:5%;
+    padding-left: 2%;
+    float:left;
+}
 #sec1
 {
     background-image: url(images/top-banner.png);
     height:500px;
     background-repeat: no-repeat;
+    margin-bottom: 150px;
     
 
 }
-.div2 img 
+.div2 img, #div21 img
 {
     width:100%;
     height:100%;
 }
 
-#button
+#button,#query-button
 {
     background-image: linear-gradient(45deg, red,gold);
     text-decoration: none;
@@ -65,4 +73,31 @@ h1{
     color:white;
     font-weight: 700;
 }
+.divp
+{
+    text-decoration: none;
+    
+}
+#middle
+{
+    height: 600px;
+    
+}
+#footer
+{
+    background-color:#77ebed;
+    height:200px;
+    
+    margin-bottom: 10px;
+
+}
+#lastdiv
+{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    
+    padding-top: 10px;
+}
+
+
 
