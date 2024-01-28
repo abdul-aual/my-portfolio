@@ -46,16 +46,17 @@ h1{
 {
    
     width:40%;
-    margin-left:5%;
+    
     padding-left: 2%;
     float:left;
     padding-top: 50px;
 }
 #div22
 {
-    margin-left: 2%;
+    margin-left: 5%;
     width:40%;
     float:left;
+    padding-left: 3%;
 
     padding-right: 5%;
 }
