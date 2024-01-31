@@ -97,20 +97,39 @@ h1{
     background-position: right;
     
 }
-#footer
+#exp-h1
 {
-    background-color:#77ebed;
-    height:200px;
-    
-    margin-bottom: 10px;
+font-family: 'Hachi Maru Pop', cursive;
+font-size: 40px;
 
 }
-#lastdiv
+.half-experience
 {
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left: 2%;
+    padding-right:3px;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 5px;
+    height: 250px;
+    border-left:7px solid;
     
-    padding-top: 10px;
+}
+.one
+{
+
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+.two
+{
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+h4{
+    color:orange;
 }
 
 
